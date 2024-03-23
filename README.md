@@ -24,15 +24,6 @@ on available features. Evaluate model performance using appropriate metrics and 
 identify significant relationships.
 
 Results:
-with Logistic Regression Sigmoid Function:
-Accuracy: 0.635
-Precision: 0.6299212598425197
-Recall: 0.7547169811320755
-F1 Score: 0.6866952789699572
-ROC AUC Score: 0.6273584905660378
-Confusion Matrix:
- [[47 47]
- [26 80]]
  with Naive Bayes Classification Algorithm:
  Accuracy: 0.93
 Precision: 1.0
@@ -42,3 +33,21 @@ ROC AUC Score: 0.9339622641509434
 Confusion Matrix:
  [[94  0]
  [14 92]]
+with Logistic Regression Sigmoid Function:
+Accuracy: 0.485
+Precision: 0.5096774193548387
+Recall: 0.7452830188679245
+F1 Score: 0.6053639846743295
+ROC AUC Score: 0.4683861902850261
+Confusion Matrix:
+ [[18 76]
+ [27 79]]
+with Logistic Regression Softmax Function:
+Accuracy: 0.52
+Precision: 0.52
+Recall: 0.52
+F1 Score: 0.52
+ROC AUC Score: 0.49959855479727017
+Confusion Matrix:
+ [[15 79]
+ [17 89]]
