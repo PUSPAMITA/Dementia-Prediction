@@ -34,20 +34,12 @@ Confusion Matrix:
  [[94  0]
  [14 92]]
 with Logistic Regression Sigmoid Function:
-Accuracy: 0.485
-Precision: 0.5096774193548387
-Recall: 0.7452830188679245
-F1 Score: 0.6053639846743295
-ROC AUC Score: 0.4683861902850261
+Accuracy: 0.545
+Precision: 0.5572519083969466
+Recall: 0.6886792452830188
+F1 Score: 0.6160337552742617
+ROC AUC Score: 0.535828984343637
 Confusion Matrix:
- [[18 76]
- [27 79]]
-with Logistic Regression Softmax Function:
-Accuracy: 0.52
-Precision: 0.52
-Recall: 0.52
-F1 Score: 0.52
-ROC AUC Score: 0.49959855479727017
-Confusion Matrix:
- [[15 79]
- [17 89]]
+ [[36 58]
+ [33 73]]
+
