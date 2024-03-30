@@ -25,6 +25,15 @@ identify significant relationships.
 
 Results:
  with Naive Bayes Classification Algorithm:
+ Accuracy: 0.99
+Precision: 1.0
+Recall: 0.9811320754716981
+F1 Score: 0.9904761904761905
+ROC AUC Score: 0.9905660377358491
+Confusion Matrix:
+ [[ 94   0]
+ [  2 104]]
+ with Gaussian Naive Bayes Algorithm:
  Accuracy: 0.93
 Precision: 1.0
 Recall: 0.8679245283018868
